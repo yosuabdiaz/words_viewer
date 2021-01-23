@@ -6,7 +6,7 @@ function setup() {
   canvas = createCanvas(w, h);
   info = createDiv("");
   info.id("info");
-  canvas.position(400,200);
+  canvas.position(500,200);
 }
 
 function draw() {
