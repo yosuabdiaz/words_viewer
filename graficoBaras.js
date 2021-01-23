@@ -1,12 +1,12 @@
 
 function setup() {
-  var w = 1000;
-  var h = 1000;
+  var w = 900;
+  var h = 600;
 
-  createCanvas(w, h);
+  canvas = createCanvas(w, h);
   info = createDiv("");
   info.id("info");
-  info.position(1000,1000);
+  canvas.position(400,200);
 }
 
 function draw() {
