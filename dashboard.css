@@ -30,6 +30,7 @@ body {
 .sidebar {
   position: fixed;
   top: 0;
+  width: 300px;
   /* rtl:raw:
   right: 0;
   */
@@ -40,7 +41,6 @@ body {
   z-index: 300; /* Behind the navbar */
   padding: 55px 0 0; /* Height of navbar */
   box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
-
 }
 
 @media (max-width: 867.98px) {
@@ -52,10 +52,10 @@ body {
 .sidebar-sticky {
   position: relative;
   top: 0;
-  height: calc(200vh - 48px);
+  height: 100px;
   padding-top: .5rem;
   overflow-x: hidden;
-  overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+  overflow-y:0px; /* Scrollable contents if viewport is shorter than content. */
 }
 
 .sidebar .nav-link {
