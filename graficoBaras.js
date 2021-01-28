@@ -1,5 +1,68 @@
 //let angles = [30, 10, 45, 35, 60, 38, 75, 67];
 
+const fileSelector = document.getElementById('file-upload');
+let productos = [];
+let datosArchivo = {};
+var productSelect = document.getElementById("productSelect");
+let valoresMensuales = {"ENERO": 0, "FEBRERO": 0, "MARZO": 0, "ABRIL": 0, "MAYO": 0, "JUNIO": 0, "JULIO": 0
+, "AGOSTO": 0, "SEPTIEMBRE": 0, "OCTUBRE": 0, "NOVIEMBRE": 0, "DICIEMBRE": 0};
+
+let palabrasMensuales = {"ENERO": "", "FEBRERO": "", "MARZO": "", "ABRIL": "", "MAYO": "", "JUNIO": "", "JULIO": ""
+, "AGOSTO": "", "SEPTIEMBRE": "", "OCTUBRE": "", "NOVIEMBRE": "", "DICIEMBRE": ""};
+
+
+fileSelector.addEventListener('change', (event) => {
+  const fileList = event.target.files;
+
+  var fileInput = fileList[0];
+
+  Papa.parse(fileInput, {
+    complete: function (results) {
+      let datosCsv = results.data;
+      let headers = datosCsv[0];
+      let objetosJson = [];
+
+      for (var registro of datosCsv.slice(1)) {
+        var objeto = {};
+
+        for (var propiedad of headers) {
+          objeto[propiedad] = registro[headers.indexOf(propiedad)];
+        }
+
+        objetosJson.push(objeto);
+      }
+
+      var sel = document.getElementById('productSelect');
+
+      productos = [...new Set(objetosJson.map(item => item.NOMBREPRODUCTO))];
+
+      for(var i = 0; i < productos.length; i++) {
+        var opt = document.createElement('option');
+        opt.innerHTML = productos[i];
+        opt.value = productos[i];
+        sel.appendChild(opt);
+    }
+
+      datosArchivo = objetosJson;
+      console.log("THIS IS THE LIST ", objetosJson);
+    }
+  });
+});
+
+
+function visualizar() {
+  var selectedProduct = productSelect.value;
+
+  for (var mes of Object.keys(valoresMensuales)) {
+    var tempProducto = datosArchivo.filter(elemento => elemento.NOMBREPRODUCTO == selectedProduct && elemento.MES == mes);
+    valoresMensuales[mes] = tempProducto[0].CALIFICACION;
+    palabrasMensuales[mes] = tempProducto[0].PR_1;
+  }
+
+  console.log("Valores mensuales ", valoresMensuales);
+}
+
+
 function setup() {
   var w = 900;
   var h = 600;
@@ -10,17 +73,29 @@ function setup() {
   canvas.position(500,200);
 }
 
-function dotLine(xpos, calificacion)
+function dotLine(mes, calificacion)
 { 
+
+  let posiciones = {"ENERO": 100, "FEBRERO": 140, "MARZO": 200, "ABRIL": 260, "MAYO": 320, "JUNIO": 380, "JULIO": 440
+  , "AGOSTO": 500, "SEPTIEMBRE": 560, "OCTUBRE": 620, "NOVIEMBRE": 680, "DICIEMBRE": 740}
+
   var dotPos = 450;
+  var initialPos = 10 + (500 * (1/(calificacion*2))); 
    // Make the points 10 pixels in size
 
-  for(var i=0; i <= 85; i++){
+  console.log("Posicion! para ", {"mes": mes, "calificacion": initialPos});
+
+  text(palabrasMensuales[mes], posiciones[mes], initialPos - 10);
+
+  push();
+  for(var i= initialPos; i <= 450; i+=5){
     stroke('green'); // Change the color
     strokeWeight(2);
-    point(xpos, dotPos);
-    dotPos = dotPos - 5;
+    point(posiciones[mes], i);
+
+    //dotPos = dotPos + 5;
   }
+  pop();
 }
 
 function circulo(diametro) {
@@ -66,21 +141,19 @@ function draw() {
     
     fill(51, 153, 250);
     stroke(211, 211, 211);  
-  
 
-    dotLine(100, 2);
-    dotLine(140, 3);
-    dotLine(200, 4);
-    dotLine(260, 1);
-    dotLine(320, 5);
-    dotLine(380, 4);
-    dotLine(440, 3);
-    dotLine(500, 1);
-    dotLine(560, 5);
-    dotLine(620, 4);
-    dotLine(680, 3);
-    dotLine(740, 1);
-  
+    dotLine("ENERO", valoresMensuales["ENERO"]);
+    dotLine("FEBRERO", valoresMensuales["FEBRERO"]);
+    dotLine("MARZO", valoresMensuales["MARZO"]);
+    dotLine("ABRIL", valoresMensuales["ABRIL"]);
+    dotLine("MAYO", valoresMensuales["MAYO"]);
+    dotLine("JUNIO", valoresMensuales["JUNIO"]);
+    dotLine("JULIO", valoresMensuales["JULIO"]);
+    dotLine("AGOSTO", valoresMensuales["AGOSTO"]);
+    dotLine("SEPTIEMBRE", valoresMensuales["SEPTIEMBRE"]);
+    dotLine("OCTUBRE", valoresMensuales["OCTUBRE"]);
+    dotLine("NOVIEMBRE", valoresMensuales["NOVIEMBRE"]);
+    dotLine("DICIEMBRE", valoresMensuales["DICIEMBRE"]);
   }
 
   pop();

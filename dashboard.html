@@ -12,7 +12,8 @@
     <!-- Grafico libreria -->
 <link rel="stylesheet" type="text/css" href="style.css">
 <script src="./p5.js"></script>
-<script src="./p5.dom.min.js"></script> 
+<script src="./p5.dom.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.js"></script>
 
     <!-- Bootstrap core CSS -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -67,7 +68,7 @@
             <label for="file-upload" class="subir">
               <i class="fas fa-cloud-upload-alt"></i> Subir archivo
             </label>
-            <input id="file-upload" onchange='cambiar()' type="file" style='display: none;'/>
+            <input id="file-upload" type="file" style='display: none;'/>
             <div id="info"></div>
             <!--ul class="nav flex-column"> 
               <li class="nav-item">
@@ -83,7 +84,7 @@
             </a>
           </li>
           <div class="btn-group me-2">
-            <button type="button" class="btn btn-sm btn-outline-secondary">Iniciar Visualizacion</button>
+            <button onclick="visualizar()" type="button" class="btn btn-sm btn-outline-secondary">Iniciar Visualizacion</button>
           </div>
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="#">
@@ -92,10 +93,8 @@
             </a>
           </li>
           <div class="btn-group me-2">
-            <button type="button" class="btn btn-sm btn-outline-secondary dropdown-toggle">
-            <span data-feather="calendar"></span>
-              Producto
-            </button>
+            <select id="productSelect">
+            </select>
           </div>
         </ul>
       </div>
@@ -114,13 +113,6 @@
     </main>
   </div>
 </div>
-
-    <script>
-      function cambiar(){
-        var pdrs = document.getElementById('file-upload').files[0].name;
-        document.getElementById('info').innerHTML = pdrs;
-      }
-    </script>
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="graficoBaras.js"></script> 
       <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha" crossorigin="anonymous"></script><
