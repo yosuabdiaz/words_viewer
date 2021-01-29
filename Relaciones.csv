@@ -1,0 +1,481 @@
+NOMBRE_PRODUCTO,PALABRA,RELACION,FRECUENCIA,MES
+"Samsung Galaxy Express, Gray 8GB (AT&T)",PANTALLA,BRILLO,9,ENERO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",AUDIO,PARLANTE,8,ENERO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",COBERTURA,LLAMADA,6,ENERO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",VOLUMEN ,BAJO,9,ENERO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",CAJA,GRANDE,4,FEBRERO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",BATERIA,BAJA,5,FEBRERO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",PANTALLA,PEQUEÑA,7,FEBRERO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",SEGURIDAD,BUENA,9,FEBRERO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",PANTALLA,BRILLO,8,MARZO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",AUDIO,PARLANTE,7,MARZO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",BATERIA,BAJA,5,MARZO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",PANTALLA,PEQUEÑA,4,MARZO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",SEGURIDAD,BUENA,3,ABRIL
+"Samsung Galaxy Express, Gray 8GB (AT&T)",COBERTURA,LLAMADA,9,ABRIL
+"Samsung Galaxy Express, Gray 8GB (AT&T)",VOLUMEN ,BAJO,6,ABRIL
+"Samsung Galaxy Express, Gray 8GB (AT&T)",CAJA,GRANDE,4,ABRIL
+"Samsung Galaxy Express, Gray 8GB (AT&T)",COBERTURA,LLAMADA,8,MAYO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",VOLUMEN ,BAJO,7,MAYO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",CAJA,GRANDE,8,MAYO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",BATERIA,BAJA,9,MAYO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",PANTALLA,PEQUEÑA,8,JUNIO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",SEGURIDAD,BUENA,7,JUNIO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",PANTALLA,PEQUEÑA,6,JUNIO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",AUDIO,PARLANTE,5,JUNIO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",PANTALLA,BRILLO,4,JULIO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",AUDIO,PARLANTE,3,JULIO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",PANTALLA,BRILLO,2,JULIO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",AUDIO,PARLANTE,9,JULIO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",COBERTURA,LLAMADA,1,AGOSTO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",VOLUMEN ,BAJO,8,AGOSTO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",CAJA,GRANDE,1,AGOSTO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",BATERIA,BAJA,1,AGOSTO
+"Samsung Galaxy Express, Gray 8GB (AT&T)",VOLUMEN ,BAJO,3,SEPTIEMBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",BATERIA,BAJA,4,SEPTIEMBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",PANTALLA,PEQUEÑA,9,SEPTIEMBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",AUDIO,PARLANTE,7,SEPTIEMBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",BATERIA,BAJA,8,OCTUBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",AUDIO,PARLANTE,1,OCTUBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",CAJA,GRANDE,4,OCTUBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",VOLUMEN ,BAJO,7,OCTUBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",BATERIA,BAJA,9,NOVIEMBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",PANTALLA,PEQUEÑA,4,NOVIEMBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",AUDIO,PARLANTE,3,NOVIEMBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",VOLUMEN ,BAJO,9,NOVIEMBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",BATERIA,BAJA,6,DICIEMBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",PANTALLA,PEQUEÑA,3,DICIEMBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",AUDIO,PARLANTE,8,DICIEMBRE
+"Samsung Galaxy Express, Gray 8GB (AT&T)",CAJA,GRANDE,9,DICIEMBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",BATERIA,BAJA,1,ENERO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,PEQUEÑA,4,ENERO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,PEQUEÑA,7,ENERO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",AUDIO,PARLANTE,9,ENERO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",BATERIA,BAJA,4,FEBRERO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,PEQUEÑA,3,FEBRERO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,PEQUEÑA,9,FEBRERO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",AUDIO,PARLANTE,6,FEBRERO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",VOLUMEN ,BAJO,3,MARZO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",BATERIA,BAJA,8,MARZO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",AUDIO,PARLANTE,9,MARZO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",CAJA,GRANDE,8,MARZO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,PEQUEÑA,7,ABRIL
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",CAJA,GRANDE,6,ABRIL
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",BATERIA,BAJA,5,ABRIL
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,PEQUEÑA,4,ABRIL
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",CAJA,GRANDE,3,MAYO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",BATERIA,BAJA,2,MAYO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,PEQUEÑA,9,MAYO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",BATERIA,BAJA,9,MAYO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",AUDIO,PARLANTE,7,JUNIO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",CAJA,GRANDE,8,JUNIO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",AUDIO,PARLANTE,1,JUNIO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",BATERIA,BAJA,4,JUNIO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,PEQUEÑA,7,JULIO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,PEQUEÑA,9,JULIO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",AUDIO,PARLANTE,4,JULIO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",VOLUMEN ,BAJO,3,JULIO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",BATERIA,BAJA,9,AGOSTO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",AUDIO,PARLANTE,3,AGOSTO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",CAJA,GRANDE,2,AGOSTO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",VOLUMEN ,BAJO,9,AGOSTO
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",BATERIA,BAJA,9,SEPTIEMBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",CAJA,GRANDE,7,SEPTIEMBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",BATERIA,BAJA,1,SEPTIEMBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,PEQUEÑA,4,SEPTIEMBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",SEGURIDAD,BUENA,7,OCTUBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,PEQUEÑA,9,OCTUBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",AUDIO,PARLANTE,4,OCTUBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,BRILLO,3,OCTUBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",AUDIO,PARLANTE,9,NOVIEMBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,BRILLO,9,NOVIEMBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",AUDIO,PARLANTE,8,NOVIEMBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",COBERTURA,LLAMADA,7,NOVIEMBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",BATERIA,BAJA,5,DICIEMBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",CAJA,GRANDE,4,DICIEMBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",BATERIA,BAJA,3,DICIEMBRE
+"Samsung Galaxy S4, Black Mist 16GB (Sprint)",PANTALLA,PEQUEÑA,9,DICIEMBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,BRILLO,6,ENERO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,AUDIO,PARLANTE,9,ENERO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,COBERTURA,LLAMADA,4,ENERO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,VOLUMEN ,BAJO,8,ENERO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,CAJA,GRANDE,2,FEBRERO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,BATERIA,BAJA,7,FEBRERO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,PEQUEÑA,4,FEBRERO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,SEGURIDAD,BUENA,6,FEBRERO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,BRILLO,3,MARZO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,AUDIO,PARLANTE,4,MARZO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,BATERIA,BAJA,6,MARZO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,PEQUEÑA,7,MARZO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,CAJA,GRANDE,8,ABRIL
+Samsung Galaxy S7 32GB G930V Unlocked - Black,BATERIA,BAJA,9,ABRIL
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,PEQUEÑA,4,ABRIL
+Samsung Galaxy S7 32GB G930V Unlocked - Black,BATERIA,BAJA,6,ABRIL
+Samsung Galaxy S7 32GB G930V Unlocked - Black,AUDIO,PARLANTE,8,MAYO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,CAJA,GRANDE,6,MAYO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,AUDIO,PARLANTE,5,MAYO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,BATERIA,BAJA,3,MAYO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,PEQUEÑA,2,JUNIO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,PEQUEÑA,1,JUNIO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,AUDIO,PARLANTE,5,JUNIO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,VOLUMEN ,BAJO,4,JUNIO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,AUDIO,PARLANTE,6,JULIO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,BATERIA,BAJA,8,JULIO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,PEQUEÑA,3,JULIO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,PEQUEÑA,4,JULIO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,VOLUMEN ,BAJO,5,AGOSTO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,CAJA,GRANDE,6,AGOSTO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,BATERIA,BAJA,8,AGOSTO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,PEQUEÑA,6,AGOSTO
+Samsung Galaxy S7 32GB G930V Unlocked - Black,SEGURIDAD,BUENA,5,SEPTIEMBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,BRILLO,3,SEPTIEMBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,AUDIO,PARLANTE,5,SEPTIEMBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,BATERIA,BAJA,8,SEPTIEMBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,PEQUEÑA,9,OCTUBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,CAJA,GRANDE,7,OCTUBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,AUDIO,PARLANTE,6,OCTUBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,CAJA,GRANDE,4,OCTUBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,PEQUEÑA,1,NOVIEMBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,CAJA,GRANDE,2,NOVIEMBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,BATERIA,BAJA,4,NOVIEMBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,PEQUEÑA,7,NOVIEMBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,BATERIA,BAJA,1,DICIEMBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,PANTALLA,PEQUEÑA,5,DICIEMBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,AUDIO,PARLANTE,8,DICIEMBRE
+Samsung Galaxy S7 32GB G930V Unlocked - Black,BATERIA,BAJA,5,DICIEMBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",SEGURIDAD,BUENA,1,ENERO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",COBERTURA,LLAMADA,4,ENERO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",VOLUMEN ,BAJO,7,ENERO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,9,ENERO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",COBERTURA,LLAMADA,4,FEBRERO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",VOLUMEN ,BAJO,3,FEBRERO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,9,FEBRERO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,6,FEBRERO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,3,MARZO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",SEGURIDAD,BUENA,8,MARZO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,9,MARZO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,8,MARZO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",PANTALLA,BRILLO,7,ABRIL
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,6,ABRIL
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",PANTALLA,BRILLO,5,ABRIL
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,4,ABRIL
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",COBERTURA,LLAMADA,3,MAYO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",VOLUMEN ,BAJO,2,MAYO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,9,MAYO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,9,MAYO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",VOLUMEN ,BAJO,7,JUNIO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,8,JUNIO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,1,JUNIO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,4,JUNIO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,7,JULIO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,9,JULIO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,4,JULIO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",VOLUMEN ,BAJO,3,JULIO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,9,AGOSTO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,3,AGOSTO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,2,AGOSTO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",VOLUMEN ,BAJO,9,AGOSTO
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,9,SEPTIEMBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,7,SEPTIEMBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,1,SEPTIEMBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,4,SEPTIEMBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,7,OCTUBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,9,OCTUBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,4,OCTUBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,3,OCTUBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,9,NOVIEMBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,9,NOVIEMBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,8,NOVIEMBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,7,NOVIEMBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",VOLUMEN ,BAJO,5,DICIEMBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,4,DICIEMBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,3,DICIEMBRE
+"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,9,DICIEMBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,1,ENERO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,4,ENERO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,7,ENERO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,9,ENERO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,4,FEBRERO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,3,FEBRERO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,9,FEBRERO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,6,FEBRERO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,3,MARZO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,8,MARZO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,9,MARZO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,8,MARZO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,7,ABRIL
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,6,ABRIL
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,5,ABRIL
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",VOLUMEN ,BAJO,4,ABRIL
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,3,MAYO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,2,MAYO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,9,MAYO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",VOLUMEN ,BAJO,9,MAYO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,7,JUNIO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,8,JUNIO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,1,JUNIO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,4,JUNIO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",SEGURIDAD,BUENA,7,JULIO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,9,JULIO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,4,JULIO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,BRILLO,3,JULIO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,9,AGOSTO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,BRILLO,3,AGOSTO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,2,AGOSTO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",COBERTURA,LLAMADA,9,AGOSTO
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,9,SEPTIEMBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,7,SEPTIEMBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,1,SEPTIEMBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,4,SEPTIEMBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,BRILLO,7,OCTUBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,9,OCTUBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",COBERTURA,LLAMADA,4,OCTUBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",VOLUMEN ,BAJO,3,OCTUBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,9,NOVIEMBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,9,NOVIEMBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,8,NOVIEMBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",SEGURIDAD,BUENA,7,NOVIEMBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,BRILLO,5,DICIEMBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,4,DICIEMBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,3,DICIEMBRE
+"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,9,DICIEMBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",BATERIA,BAJA,9,ENERO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,PEQUEÑA,8,ENERO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,PEQUEÑA,6,ENERO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",AUDIO,PARLANTE,9,ENERO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",BATERIA,BAJA,4,FEBRERO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,PEQUEÑA,5,FEBRERO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,PEQUEÑA,7,FEBRERO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",AUDIO,PARLANTE,9,FEBRERO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",VOLUMEN ,BAJO,8,MARZO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",BATERIA,BAJA,7,MARZO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",AUDIO,PARLANTE,5,MARZO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",CAJA,GRANDE,4,MARZO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,PEQUEÑA,3,ABRIL
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",CAJA,GRANDE,9,ABRIL
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",BATERIA,BAJA,6,ABRIL
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,PEQUEÑA,4,ABRIL
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",CAJA,GRANDE,8,MAYO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",BATERIA,BAJA,7,MAYO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,PEQUEÑA,8,MAYO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",BATERIA,BAJA,9,MAYO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",AUDIO,PARLANTE,8,JUNIO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",CAJA,GRANDE,7,JUNIO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",AUDIO,PARLANTE,6,JUNIO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",BATERIA,BAJA,5,JUNIO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,PEQUEÑA,4,JULIO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,PEQUEÑA,3,JULIO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",AUDIO,PARLANTE,2,JULIO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",VOLUMEN ,BAJO,9,JULIO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",BATERIA,BAJA,1,AGOSTO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",AUDIO,PARLANTE,8,AGOSTO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",CAJA,GRANDE,1,AGOSTO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",VOLUMEN ,BAJO,1,AGOSTO
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",BATERIA,BAJA,3,SEPTIEMBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",CAJA,GRANDE,4,SEPTIEMBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",BATERIA,BAJA,9,SEPTIEMBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,PEQUEÑA,7,SEPTIEMBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",SEGURIDAD,BUENA,8,OCTUBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,PEQUEÑA,1,OCTUBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",AUDIO,PARLANTE,4,OCTUBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,BRILLO,7,OCTUBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",AUDIO,PARLANTE,9,NOVIEMBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,BRILLO,4,NOVIEMBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",AUDIO,PARLANTE,3,NOVIEMBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",COBERTURA,LLAMADA,9,NOVIEMBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",BATERIA,BAJA,6,DICIEMBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",CAJA,GRANDE,3,DICIEMBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",BATERIA,BAJA,8,DICIEMBRE
+"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",PANTALLA,PEQUEÑA,9,DICIEMBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,BRILLO,1,ENERO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),AUDIO,PARLANTE,4,ENERO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),COBERTURA,LLAMADA,7,ENERO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),VOLUMEN ,BAJO,9,ENERO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),CAJA,GRANDE,4,FEBRERO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),BATERIA,BAJA,3,FEBRERO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,PEQUEÑA,9,FEBRERO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),SEGURIDAD,BUENA,6,FEBRERO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,BRILLO,3,MARZO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),AUDIO,PARLANTE,8,MARZO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),BATERIA,BAJA,9,MARZO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,PEQUEÑA,8,MARZO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),CAJA,GRANDE,7,ABRIL
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),BATERIA,BAJA,6,ABRIL
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,PEQUEÑA,5,ABRIL
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),BATERIA,BAJA,4,ABRIL
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),AUDIO,PARLANTE,3,MAYO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),CAJA,GRANDE,2,MAYO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),AUDIO,PARLANTE,9,MAYO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),BATERIA,BAJA,9,MAYO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,PEQUEÑA,7,JUNIO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,PEQUEÑA,8,JUNIO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),AUDIO,PARLANTE,1,JUNIO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),VOLUMEN ,BAJO,4,JUNIO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),AUDIO,PARLANTE,7,JULIO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),BATERIA,BAJA,9,JULIO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,PEQUEÑA,4,JULIO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,PEQUEÑA,3,JULIO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),VOLUMEN ,BAJO,9,AGOSTO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),CAJA,GRANDE,3,AGOSTO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),BATERIA,BAJA,2,AGOSTO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,PEQUEÑA,9,AGOSTO
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),SEGURIDAD,BUENA,9,SEPTIEMBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,BRILLO,7,SEPTIEMBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),AUDIO,PARLANTE,1,SEPTIEMBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),BATERIA,BAJA,4,SEPTIEMBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,PEQUEÑA,7,OCTUBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),CAJA,GRANDE,9,OCTUBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),AUDIO,PARLANTE,4,OCTUBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),CAJA,GRANDE,3,OCTUBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,PEQUEÑA,9,NOVIEMBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),CAJA,GRANDE,9,NOVIEMBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),BATERIA,BAJA,8,NOVIEMBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,PEQUEÑA,7,NOVIEMBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),BATERIA,BAJA,5,DICIEMBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),PANTALLA,PEQUEÑA,4,DICIEMBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),AUDIO,PARLANTE,3,DICIEMBRE
+Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),BATERIA,BAJA,9,DICIEMBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,SEGURIDAD,BUENA,6,ENERO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,COBERTURA,LLAMADA,9,ENERO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,VOLUMEN ,BAJO,4,ENERO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,CAJA,GRANDE,8,ENERO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,COBERTURA,LLAMADA,2,FEBRERO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,VOLUMEN ,BAJO,7,FEBRERO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,CAJA,GRANDE,4,FEBRERO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,BATERIA,BAJA,6,FEBRERO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,PANTALLA,PEQUEÑA,3,MARZO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,SEGURIDAD,BUENA,4,MARZO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,PANTALLA,PEQUEÑA,6,MARZO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,AUDIO,PARLANTE,7,MARZO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,PANTALLA,BRILLO,8,ABRIL
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,AUDIO,PARLANTE,9,ABRIL
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,PANTALLA,BRILLO,4,ABRIL
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,AUDIO,PARLANTE,6,ABRIL
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,COBERTURA,LLAMADA,8,MAYO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,VOLUMEN ,BAJO,6,MAYO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,CAJA,GRANDE,5,MAYO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,BATERIA,BAJA,3,MAYO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,VOLUMEN ,BAJO,2,JUNIO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,BATERIA,BAJA,1,JUNIO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,PANTALLA,PEQUEÑA,5,JUNIO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,AUDIO,PARLANTE,4,JUNIO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,BATERIA,BAJA,6,JULIO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,AUDIO,PARLANTE,8,JULIO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,CAJA,GRANDE,3,JULIO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,VOLUMEN ,BAJO,4,JULIO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,BATERIA,BAJA,5,AGOSTO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,PANTALLA,PEQUEÑA,6,AGOSTO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,AUDIO,PARLANTE,8,AGOSTO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,VOLUMEN ,BAJO,6,AGOSTO
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,BATERIA,BAJA,5,SEPTIEMBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,PANTALLA,PEQUEÑA,3,SEPTIEMBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,AUDIO,PARLANTE,5,SEPTIEMBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,CAJA,GRANDE,8,SEPTIEMBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,BATERIA,BAJA,9,OCTUBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,PANTALLA,PEQUEÑA,7,OCTUBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,PANTALLA,PEQUEÑA,6,OCTUBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,AUDIO,PARLANTE,4,OCTUBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,BATERIA,BAJA,1,NOVIEMBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,PANTALLA,PEQUEÑA,2,NOVIEMBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,PANTALLA,PEQUEÑA,4,NOVIEMBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,AUDIO,PARLANTE,7,NOVIEMBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,VOLUMEN ,BAJO,1,DICIEMBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,BATERIA,BAJA,5,DICIEMBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,AUDIO,PARLANTE,8,DICIEMBRE
+Sony Xperia L1 G3313 16GB Unlocked GSM Quad-Core Android Phone - Pink,CAJA,GRANDE,5,DICIEMBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,PEQUEÑA,1,ENERO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),CAJA,GRANDE,4,ENERO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),BATERIA,BAJA,7,ENERO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,PEQUEÑA,9,ENERO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),CAJA,GRANDE,4,FEBRERO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),BATERIA,BAJA,3,FEBRERO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,PEQUEÑA,9,FEBRERO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),BATERIA,BAJA,6,FEBRERO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),AUDIO,PARLANTE,3,MARZO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),CAJA,GRANDE,8,MARZO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),AUDIO,PARLANTE,9,MARZO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),BATERIA,BAJA,8,MARZO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,PEQUEÑA,7,ABRIL
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,PEQUEÑA,6,ABRIL
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),AUDIO,PARLANTE,5,ABRIL
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),VOLUMEN ,BAJO,4,ABRIL
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),BATERIA,BAJA,3,MAYO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),AUDIO,PARLANTE,2,MAYO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),CAJA,GRANDE,9,MAYO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),VOLUMEN ,BAJO,9,MAYO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),BATERIA,BAJA,7,JUNIO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),CAJA,GRANDE,8,JUNIO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),BATERIA,BAJA,1,JUNIO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,PEQUEÑA,4,JUNIO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),SEGURIDAD,BUENA,7,JULIO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,PEQUEÑA,9,JULIO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),AUDIO,PARLANTE,4,JULIO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,BRILLO,3,JULIO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),AUDIO,PARLANTE,9,AGOSTO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,BRILLO,3,AGOSTO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),AUDIO,PARLANTE,2,AGOSTO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),COBERTURA,LLAMADA,9,AGOSTO
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),BATERIA,BAJA,9,SEPTIEMBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),CAJA,GRANDE,7,SEPTIEMBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),BATERIA,BAJA,1,SEPTIEMBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,PEQUEÑA,4,SEPTIEMBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,BRILLO,7,OCTUBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),AUDIO,PARLANTE,9,OCTUBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),COBERTURA,LLAMADA,4,OCTUBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),VOLUMEN ,BAJO,3,OCTUBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),CAJA,GRANDE,9,NOVIEMBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),BATERIA,BAJA,9,NOVIEMBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,PEQUEÑA,8,NOVIEMBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),SEGURIDAD,BUENA,7,NOVIEMBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,BRILLO,5,DICIEMBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),AUDIO,PARLANTE,4,DICIEMBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),BATERIA,BAJA,3,DICIEMBRE
+Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),PANTALLA,PEQUEÑA,9,DICIEMBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,1,ENERO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,4,ENERO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,7,ENERO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,9,ENERO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,4,FEBRERO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,3,FEBRERO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,9,FEBRERO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,6,FEBRERO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",VOLUMEN ,BAJO,3,MARZO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,8,MARZO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,9,MARZO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,8,MARZO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,7,ABRIL
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,6,ABRIL
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,5,ABRIL
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,4,ABRIL
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,3,MAYO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,2,MAYO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,9,MAYO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,9,MAYO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,7,JUNIO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,8,JUNIO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,1,JUNIO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,4,JUNIO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,7,JULIO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,9,JULIO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,4,JULIO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",VOLUMEN ,BAJO,3,JULIO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,9,AGOSTO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,3,AGOSTO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,2,AGOSTO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",VOLUMEN ,BAJO,9,AGOSTO
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,9,SEPTIEMBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,7,SEPTIEMBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,1,SEPTIEMBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,4,SEPTIEMBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",SEGURIDAD,BUENA,7,OCTUBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,9,OCTUBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,4,OCTUBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,BRILLO,3,OCTUBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,9,NOVIEMBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,BRILLO,9,NOVIEMBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",AUDIO,PARLANTE,8,NOVIEMBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",COBERTURA,LLAMADA,7,NOVIEMBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,5,DICIEMBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",CAJA,GRANDE,4,DICIEMBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",BATERIA,BAJA,3,DICIEMBRE
+"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",PANTALLA,PEQUEÑA,9,DICIEMBRE
